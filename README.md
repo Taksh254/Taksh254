@@ -58,10 +58,24 @@
   <img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=0A101F" alt="GitHub" />
 </a>
 &nbsp;&nbsp;
+<a href="https://portfolio-two-peach-30.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=F8FAFC&labelColor=0A101F" alt="Portfolio" />
+</a>
+&nbsp;&nbsp;
 <a href="https://github.com/kaniskoChakraborty/Grownova-0.1/tree/Taksh">
   <img src="https://img.shields.io/badge/GrowNova_OS-0A101F?style=for-the-badge&logo=nestjs&logoColor=A78BFA&labelColor=0A101F" alt="GrowNova OS" />
 </a>
 &nbsp;&nbsp;
+</div>
+
+<div align="center">
+<sub>Live demos:
+<a href="https://bloom-desk-kappa.vercel.app">BloomDesk</a> ·
+<a href="https://finova-psi-two.vercel.app">FINOVA</a> ·
+<a href="https://oryn-puce.vercel.app">Oryn</a> ·
+<a href="https://school-web-ebon.vercel.app/">Tiny Mind Play School</a> ·
+<a href="https://edith-ai-pied.vercel.app">EDITH AI</a>
+</sub>
 </div>
 
 <!-- ===== END SOCIAL BADGES ===== -->

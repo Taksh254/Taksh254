@@ -1,10 +1,12 @@
 [
-  {
-    "name": "GrowNova OS",
-    "repo": "kaniskoChakraborty/Grownova-0.1",
-    "logo": "",
-    "description": "AI business OS for MSMEs. I own the backend.",
-    "tags": ["NestJS", "TypeScript", "PostgreSQL", "Prisma", "Redis"],
-    "languages": {"TypeScript": 101023, "PLpgSQL": 7200, "Prisma": 4893}
-  }
+  {"name": "GrowNova OS", "repo": "kaniskoChakraborty/Grownova-0.1", "logo": "", "description": "AI business OS for MSMEs. I own the backend.", "tags": ["NestJS", "PostgreSQL", "Redis"]},
+  {"name": "BloomDesk", "repo": "Taksh254/BloomDesk", "logo": "", "description": "Preschool app: children, classes, attendance", "tags": ["Next.js", "Supabase", "TypeScript"]},
+  {"name": "FINOVA", "repo": "Taksh254/Finova-", "logo": "", "description": "Payout reconciliation that never guesses", "tags": ["Next.js", "Prisma", "Postgres"]},
+  {"name": "Viral Shorts Clipper", "repo": "Taksh254/Clipper-", "logo": "", "description": "YouTube link in, captioned Shorts out", "tags": ["Python", "Ollama", "FFmpeg"]},
+  {"name": "Study Buddy", "repo": "Taksh254/Study_Buddy", "logo": "", "description": "Offline study library with a local AI tutor", "tags": ["Python", "Ollama", "RAG"]},
+  {"name": "Oryn", "repo": "Taksh254/visual-file-manager", "logo": "", "description": "3D galaxy view of your files, live", "tags": ["React", "Three.js", "Node.js"]},
+  {"name": "Tiny Mind Play School", "repo": "Taksh254/School-web", "logo": "", "description": "Preschool website on Next.js and Supabase", "tags": ["Next.js", "Supabase", "Tailwind"]},
+  {"name": "EDITH AI", "repo": "Taksh254/Edith-ai", "logo": "", "description": "Voice assistant on a local Ollama brain", "tags": ["Python", "Ollama", "Voice"]},
+  {"name": "Dr. Strange", "repo": "Taksh254/Dr.-Strange", "logo": "", "description": "Cast portals with hand gestures", "tags": ["Next.js", "MediaPipe", "Canvas"]},
+  {"name": "Bob", "repo": "Taksh254/Bob_Desk_Companion", "logo": "", "description": "3D desk companion robot with a live backend", "tags": ["React", "Three.js", "Python"]}
 ]
